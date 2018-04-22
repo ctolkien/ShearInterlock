@@ -1,0 +1,10 @@
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\bin\Debug\ShearInterlock.exe.config
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\bin\Debug\ShearInterlock.exe
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\bin\Debug\ShearInterlock.pdb
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\obj\Debug\ShearInterlock.csprojResolveAssemblyReference.cache
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\obj\Debug\ShearInterlock.MainForm.resources
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\obj\Debug\ShearInterlock.Properties.Resources.resources
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\obj\Debug\ShearInterlock.csproj.GenerateResource.cache
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\obj\Debug\ShearInterlock.csproj.CoreCompileInputs.cache
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\obj\Debug\ShearInterlock.exe
+C:\VS\Concrete Design\ShearInterlockTransfer\ShearInterlock\ShearInterlock\obj\Debug\ShearInterlock.pdb
